@@ -1,0 +1,1090 @@
+{
+    "devices": [
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "A"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "B"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "C"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "D"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "E"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "F"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "I"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "K"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "L"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "N"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "O"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "Q"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "S"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "V"
+        },
+        {
+            "appearanceShortname": "KBSKTREL",
+            "deviceName": "G"
+        },
+        {
+            "appearanceShortname": "KBSKTREL",
+            "deviceName": "H"
+        },
+        {
+            "appearanceShortname": "S2400IB2",
+            "deviceName": "J"
+        },
+        {
+            "appearanceShortname": "S2400IB2",
+            "deviceName": "M"
+        },
+        {
+            "appearanceShortname": "C300IBH",
+            "deviceName": "BLIND LEFT"
+        },
+        {
+            "appearanceShortname": "C300IBH",
+            "deviceName": "BLIND RIGHT"
+        },
+        {
+            "appearanceShortname": "H1RSMB",
+            "deviceName": "S05"
+        },
+        {
+            "appearanceShortname": "H1RSMB",
+            "deviceName": "S09"
+        },
+        {
+            "appearanceShortname": "H1RSMB",
+            "deviceName": "S13"
+        },
+        {
+            "appearanceShortname": "H2RSMB",
+            "deviceName": "S12"
+        },
+        {
+            "appearanceShortname": "H3RSMB",
+            "deviceName": "S10"
+        },
+        {
+            "appearanceShortname": "H3RSMB",
+            "deviceName": "S11"
+        },
+        {
+            "appearanceShortname": "H4RSMB",
+            "deviceName": "S01"
+        },
+        {
+            "appearanceShortname": "H4RSMB",
+            "deviceName": "S02"
+        },
+        {
+            "appearanceShortname": "H4RSMB",
+            "deviceName": "S07"
+        },
+        {
+            "appearanceShortname": "H6RSMB",
+            "deviceName": "S03"
+        },
+        {
+            "appearanceShortname": "H6RSMB",
+            "deviceName": "S04"
+        },
+        {
+            "appearanceShortname": "6INPUT",
+            "deviceName": "6IN"
+        },
+        {
+            "appearanceShortname": "4OUTPUT",
+            "deviceName": "4OUT"
+        }
+    ],
+    "groups": [
+        {
+            "groupName": "BLIND LEFT",
+            "devices": []
+        },
+        {
+            "groupName": "BLIND RIGHT",
+            "devices": []
+        }
+    ],
+    "scenes": [
+        {
+            "sceneName": "BRIGHT",
+            "contents": [
+                {
+                    "name": "A",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "N",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "D",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "O",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "L",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Q",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "J",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "M",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "S",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "OFF",
+            "contents": [
+                {
+                    "name": "A",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "N",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "D",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "O",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "L",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Q",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "J",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "M",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "S",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "SOFT",
+            "contents": [
+                {
+                    "name": "A",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "N",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "D",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "O",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "L",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Q",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "J",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "S",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "BATH ON",
+            "contents": [
+                {
+                    "name": "E",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "BATH OFF",
+            "contents": [
+                {
+                    "name": "E",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "V",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "BATH MOOD",
+            "contents": [
+                {
+                    "name": "E",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 30
+                    }
+                },
+                {
+                    "name": "V",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 90
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "BED BRIGHT",
+            "contents": [
+                {
+                    "name": "A",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 70
+                    }
+                },
+                {
+                    "name": "M",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "BED OFF",
+            "contents": [
+                {
+                    "name": "A",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "M",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "BED SOFT",
+            "contents": [
+                {
+                    "name": "A",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 10
+                    }
+                },
+                {
+                    "name": "M",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "SMALL BATH ON",
+            "contents": [
+                {
+                    "name": "I",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "SMALL BATH OFF",
+            "contents": [
+                {
+                    "name": "I",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "SMALL BATH MOOD",
+            "contents": [
+                {
+                    "name": "I",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 30
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "DINING BRIGHT",
+            "contents": [
+                {
+                    "name": "N",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "L",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "S",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "DINING OFF",
+            "contents": [
+                {
+                    "name": "N",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "L",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "S",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "DINING SOFT",
+            "contents": [
+                {
+                    "name": "N",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "L",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "S",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "LIVING BRIGHT",
+            "contents": [
+                {
+                    "name": "Q",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "J",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "S",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "LIVING OFF",
+            "contents": [
+                {
+                    "name": "Q",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "J",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "S",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "LIVING SOFT",
+            "contents": [
+                {
+                    "name": "Q",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "J",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "S",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "WELCOME",
+            "contents": [
+                {
+                    "name": "A",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "N",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "D",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "O",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "L",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Q",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "J",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "M",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "G",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "S",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "OCCUPIED",
+            "contents": [
+                {
+                    "name": "A",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "N",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "D",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "O",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "L",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Q",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "J",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "M",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "G",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "S",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "B",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "C",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "E",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "F",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "I",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "K",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "V",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "H",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                }
+            ]
+        }
+    ],
+    "remoteControls": [
+        {
+            "remoteName": "6IN",
+            "links": []
+        },
+        {
+            "remoteName": "4OUT",
+            "links": []
+        },
+        {
+            "remoteName": "S01",
+            "links": [
+                {
+                    "linkIndex": 0,
+                    "linkType": 2,
+                    "linkName": "BRIGHT"
+                },
+                {
+                    "linkIndex": 1,
+                    "linkType": 2,
+                    "linkName": "OFF"
+                },
+                {
+                    "linkIndex": 2,
+                    "linkType": 2,
+                    "linkName": "SOFT"
+                },
+                {
+                    "linkIndex": 3,
+                    "linkType": 3,
+                    "linkName": "DND"
+                }
+            ]
+        },
+        {
+            "remoteName": "S02",
+            "links": [
+                {
+                    "linkIndex": 0,
+                    "linkType": 2,
+                    "linkName": "BATH ON"
+                },
+                {
+                    "linkIndex": 1,
+                    "linkType": 2,
+                    "linkName": "BATH OFF"
+                },
+                {
+                    "linkIndex": 2,
+                    "linkType": 2,
+                    "linkName": "BATH MOOD"
+                },
+                {
+                    "linkIndex": 3,
+                    "linkType": 0,
+                    "linkName": "F"
+                }
+            ]
+        },
+        {
+            "remoteName": "S03",
+            "links": [
+                {
+                    "linkIndex": 0,
+                    "linkType": 2,
+                    "linkName": "BED BRIGHT"
+                },
+                {
+                    "linkIndex": 1,
+                    "linkType": 2,
+                    "linkName": "BED OFF"
+                },
+                {
+                    "linkIndex": 2,
+                    "linkType": 2,
+                    "linkName": "BED SOFT"
+                },
+                {
+                    "linkIndex": 3,
+                    "linkType": 0,
+                    "linkName": "B"
+                },
+                {
+                    "linkIndex": 4,
+                    "linkType": 3,
+                    "linkName": "DND"
+                },
+                {
+                    "linkIndex": 5,
+                    "linkType": 0,
+                    "linkName": "V"
+                }
+            ]
+        },
+        {
+            "remoteName": "S04",
+            "links": [
+                {
+                    "linkIndex": 0,
+                    "linkType": 2,
+                    "linkName": "BED BRIGHT"
+                },
+                {
+                    "linkIndex": 1,
+                    "linkType": 2,
+                    "linkName": "BED OFF"
+                },
+                {
+                    "linkIndex": 2,
+                    "linkType": 2,
+                    "linkName": "BED SOFT"
+                },
+                {
+                    "linkIndex": 3,
+                    "linkType": 0,
+                    "linkName": "C"
+                },
+                {
+                    "linkIndex": 4,
+                    "linkType": 3,
+                    "linkName": "DND"
+                },
+                {
+                    "linkIndex": 5,
+                    "linkType": 0,
+                    "linkName": "V"
+                }
+            ]
+        },
+        {
+            "remoteName": "S05",
+            "links": [
+                {
+                    "linkIndex": 0,
+                    "linkType": 0,
+                    "linkName": "H"
+                }
+            ]
+        },
+        {
+            "remoteName": "S07",
+            "links": [
+                {
+                    "linkIndex": 0,
+                    "linkType": 2,
+                    "linkName": "SMALL BATH ON"
+                },
+                {
+                    "linkIndex": 1,
+                    "linkType": 2,
+                    "linkName": "SMALL BATH OFF"
+                },
+                {
+                    "linkIndex": 2,
+                    "linkType": 2,
+                    "linkName": "SMALL BATH MOOD"
+                },
+                {
+                    "linkIndex": 3,
+                    "linkType": 0,
+                    "linkName": "K"
+                }
+            ]
+        },
+        {
+            "remoteName": "S09",
+            "links": [
+                {
+                    "linkIndex": 0,
+                    "linkType": 0,
+                    "linkName": "D"
+                }
+            ]
+        },
+        {
+            "remoteName": "S10",
+            "links": [
+                {
+                    "linkIndex": 0,
+                    "linkType": 2,
+                    "linkName": "DINING BRIGHT"
+                },
+                {
+                    "linkIndex": 1,
+                    "linkType": 2,
+                    "linkName": "DINING OFF"
+                },
+                {
+                    "linkIndex": 2,
+                    "linkType": 2,
+                    "linkName": "DINING SOFT"
+                }
+            ]
+        },
+        {
+            "remoteName": "S11",
+            "links": [
+                {
+                    "linkIndex": 0,
+                    "linkType": 2,
+                    "linkName": "LIVING BRIGHT"
+                },
+                {
+                    "linkIndex": 1,
+                    "linkType": 2,
+                    "linkName": "LIVING OFF"
+                },
+                {
+                    "linkIndex": 2,
+                    "linkType": 2,
+                    "linkName": "LIVING SOFT"
+                }
+            ]
+        },
+        {
+            "remoteName": "S12",
+            "links": [
+                {
+                    "linkIndex": 0,
+                    "linkType": 1,
+                    "linkName": "BLIND GROUP OPEN"
+                },
+                {
+                    "linkIndex": 1,
+                    "linkType": 1,
+                    "linkName": "BLIND GROUP CLOSE"
+                }
+            ]
+        },
+        {
+            "remoteName": "S13",
+            "links": [
+                {
+                    "linkIndex": 0,
+                    "linkType": 0,
+                    "linkName": "N"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "remoteControls": [
+        {
+            "remoteName": "6IN",
+            "links": []
+        },
+        {
+            "remoteName": "4OUT",
+            "links": []
+        },
+        {
+            "remoteName": "S01",
+            "links": [
+                {
+                    "linkIndex": 0,
+                    "linkType": 2,
+                    "linkName": "BRIGHT"
+                },
+                {
+                    "linkIndex": 1,
+                    "linkType": 2,
+                    "linkName": "OFF"
+                },
+                {
+                    "linkIndex": 2,
+                    "linkType": 2,
+                    "linkName": "SOFT"
+                },
+                {
+                    "linkIndex": 3,
+                    "linkType": 3,
+                    "linkName": "DND"
+                }
+            ]
+        },
+        {
+            "remoteName": "S02",
+            "links": [
+                {
+                    "linkIndex": 0,
+                    "linkType": 2,
+                    "linkName": "BATH ON"
+                },
+                {
+                    "linkIndex": 1,
+                    "linkType": 2,
+                    "linkName": "BATH OFF"
+                },
+                {
+                    "linkIndex": 2,
+                    "linkType": 2,
+                    "linkName": "BATH MOOD"
+                },
+                {
+                    "linkIndex": 3,
+                    "linkType": 0,
+                    "linkName": "F"
+                },
+                {
+                    "linkIndex": 0,
+                    "linkType": 0,
+                    "linkName": "C"
+                },
+                {
+                    "linkIndex": 1,
+                    "linkType": 2,
+                    "linkName": "BRIGHT"
+                },
+                {
+                    "linkIndex": 2,
+                    "linkType": 3,
+                    "linkName": "DND"
+                },
+                {
+                    "linkIndex": 3,
+                    "linkType": 2,
+                    "linkName": "OFF"
+                },
+                {
+                    "linkIndex": 4,
+                    "linkType": 0,
+                    "linkName": "V"
+                },
+                {
+                    "linkIndex": 5,
+                    "linkType": 2,
+                    "linkName": "SOFT"
+                }
+            ]
+        },
+        {
+            "remoteName": "S05",
+            "links": [
+                {
+                    "linkIndex": 0,
+                    "linkType": 0,
+                    "linkName": "H"
+                }
+            ]
+        }
+    ]
+}
