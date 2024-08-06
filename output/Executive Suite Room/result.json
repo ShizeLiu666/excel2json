@@ -151,42 +151,42 @@
                     "name": "A",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 },
                 {
                     "name": "N",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 },
                 {
                     "name": "D",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 },
                 {
                     "name": "O",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 },
                 {
                     "name": "L",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 },
                 {
                     "name": "Q",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 },
                 {
@@ -207,7 +207,7 @@
                     "name": "S",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 }
             ]
@@ -287,42 +287,42 @@
                     "name": "A",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 10
                     }
                 },
                 {
                     "name": "N",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 10
                     }
                 },
                 {
                     "name": "D",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 10
                     }
                 },
                 {
                     "name": "O",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 10
                     }
                 },
                 {
                     "name": "L",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 10
                     }
                 },
                 {
                     "name": "Q",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 10
                     }
                 },
                 {
@@ -336,7 +336,7 @@
                     "name": "S",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 10
                     }
                 }
             ]
@@ -491,7 +491,7 @@
                     "name": "N",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 },
                 {
@@ -505,7 +505,7 @@
                     "name": "S",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 }
             ]
@@ -543,21 +543,21 @@
                     "name": "N",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 10
                     }
                 },
                 {
                     "name": "L",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 10
                     }
                 },
                 {
                     "name": "S",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 10
                     }
                 }
             ]
@@ -569,7 +569,7 @@
                     "name": "Q",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 },
                 {
@@ -583,7 +583,7 @@
                     "name": "S",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 }
             ]
@@ -621,7 +621,7 @@
                     "name": "Q",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 10
                     }
                 },
                 {
@@ -635,7 +635,7 @@
                     "name": "S",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 10
                     }
                 }
             ]
@@ -647,42 +647,42 @@
                     "name": "A",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 },
                 {
                     "name": "N",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 },
                 {
                     "name": "D",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 },
                 {
                     "name": "O",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 },
                 {
                     "name": "L",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 },
                 {
                     "name": "Q",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 },
                 {
@@ -710,7 +710,7 @@
                     "name": "S",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 }
             ]
@@ -722,42 +722,42 @@
                     "name": "A",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 },
                 {
                     "name": "N",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 },
                 {
                     "name": "D",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 },
                 {
                     "name": "O",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 },
                 {
                     "name": "L",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 },
                 {
                     "name": "Q",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 },
                 {
@@ -785,7 +785,7 @@
                     "name": "S",
                     "status": "ON",
                     "statusConditions": {
-                        "level": 100
+                        "level": 70
                     }
                 },
                 {

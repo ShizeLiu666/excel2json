@@ -454,7 +454,12 @@
                     "linkIndex": 3,
                     "linkType": 0,
                     "linkName": "K"
-                },
+                }
+            ]
+        },
+        {
+            "remoteName": "S08",
+            "links": [
                 {
                     "linkIndex": 0,
                     "linkType": 2,
