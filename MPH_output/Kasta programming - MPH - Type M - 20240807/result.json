@@ -1,0 +1,194 @@
+{
+    "devices": [
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z1"
+        },
+        {
+            "appearanceShortname": "C300IBH",
+            "deviceName": "LIVING CURTAIN 1"
+        },
+        {
+            "appearanceShortname": "5RSIBH",
+            "deviceName": "5INPUT"
+        },
+        {
+            "appearanceShortname": "H1RSMB",
+            "deviceName": "LP2"
+        },
+        {
+            "appearanceShortname": "H2RSMB",
+            "deviceName": "LP10"
+        },
+        {
+            "appearanceShortname": "H3RSMB",
+            "deviceName": "LP3"
+        },
+        {
+            "appearanceShortname": "H5RSMB",
+            "deviceName": "LP14"
+        },
+        {
+            "appearanceShortname": "H6RSMB",
+            "deviceName": "LP1"
+        }
+    ],
+    "groups": [
+        {
+            "groupName": "BEDROOM",
+            "devices": []
+        },
+        {
+            "groupName": "TOILET",
+            "devices": []
+        },
+        {
+            "groupName": "SHOWER",
+            "devices": []
+        },
+        {
+            "groupName": "LIVING CURTAINS",
+            "devices": []
+        },
+        {
+            "groupName": "-LIVING CURTAIN 1",
+            "devices": []
+        },
+        {
+            "groupName": "-LIVING CURTAIN 2",
+            "devices": []
+        },
+        {
+            "groupName": "LIVING SHEERS",
+            "devices": []
+        },
+        {
+            "groupName": "-LIVING SHEER 1",
+            "devices": []
+        },
+        {
+            "groupName": "-LIVING SHEER 2",
+            "devices": []
+        }
+    ],
+    "scenes": [
+        {
+            "sceneName": "WELCOME",
+            "contents": [
+                {
+                    "name": "CONTROL",
+                    "status": "CONTENT:",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "TURN",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "NAME:",
+                    "status": "GOODBYE",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "CONTROL",
+                    "status": "CONTENT:",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "TURN",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "NAME:",
+                    "status": "CARD",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "TURN",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "ON",
+                    "status": "CURTAIN",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "OPEN",
+                    "status": "LIVING",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "OPEN",
+                    "status": "BEDROOM",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "NAME:",
+                    "status": "ALL",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "CONTROL",
+                    "status": "CONTENT:",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "TURN",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "NAME:",
+                    "status": "ALL",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "CONTROL",
+                    "status": "CONTENT:",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "TURN",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                }
+            ]
+        }
+    ],
+    "remoteControls": []
+}

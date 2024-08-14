@@ -1,0 +1,124 @@
+{
+    "devices": [
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z1"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z2"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z3"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z4"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z5"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z6"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z7"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z8"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z9"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z10"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z11"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z12"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z13"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "FAN"
+        },
+        {
+            "appearanceShortname": "C300IBH",
+            "deviceName": "LIVING CURTAIN 1"
+        },
+        {
+            "appearanceShortname": "C300IBH",
+            "deviceName": "LIVING SHEER 1"
+        },
+        {
+            "appearanceShortname": "C300IBH",
+            "deviceName": "LIVING CURTAIN 2"
+        },
+        {
+            "appearanceShortname": "C300IBH",
+            "deviceName": "LIVING SHEER 2"
+        },
+        {
+            "appearanceShortname": "C300IBH",
+            "deviceName": "BEDROOM CURTAIN"
+        },
+        {
+            "appearanceShortname": "C300IBH",
+            "deviceName": "BEDROOM SHEER"
+        },
+        {
+            "appearanceShortname": "5RSIBH",
+            "deviceName": "5INPUT"
+        },
+        {
+            "appearanceShortname": "H1RSMB",
+            "deviceName": "LP2"
+        },
+        {
+            "appearanceShortname": "H1RSMB",
+            "deviceName": "LP7"
+        },
+        {
+            "appearanceShortname": "H2RSMB",
+            "deviceName": "LP10"
+        },
+        {
+            "appearanceShortname": "H2RSMB",
+            "deviceName": "LP11"
+        },
+        {
+            "appearanceShortname": "H3RSMB",
+            "deviceName": "LP3"
+        },
+        {
+            "appearanceShortname": "H5RSMB",
+            "deviceName": "LP14"
+        },
+        {
+            "appearanceShortname": "H6RSMB",
+            "deviceName": "LP1"
+        },
+        {
+            "appearanceShortname": "H6RSMB",
+            "deviceName": "LP12"
+        },
+        {
+            "appearanceShortname": "H6RSMB",
+            "deviceName": "LP13"
+        }
+    ]
+}
