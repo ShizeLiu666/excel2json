@@ -1,0 +1,414 @@
+{
+    "scenes": [
+        {
+            "sceneName": "WELCOME",
+            "contents": [
+                {
+                    "name": "Z2",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z3",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z5",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z6",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z9",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z11",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z12",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "GOODBYE",
+            "contents": [
+                {
+                    "name": "Z1",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Z2",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Z3",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Z4",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Z5",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Z6",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Z7",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Z8",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Z9",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Z10",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Z11",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Z12",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "CARD",
+            "contents": [
+                {
+                    "name": "Z2",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z3",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z4",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z5",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z6",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z7",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z8",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z9",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z10",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z11",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "LIVING CURTAIN",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "BEDROOM CURTAIN 1",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "BEDROOM CURTAIN 2",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "ALL ON",
+            "contents": [
+                {
+                    "name": "Z2",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z3",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z4",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z5",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z6",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z7",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z8",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z9",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z10",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z11",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "Z12",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "ALL OFF",
+            "contents": [
+                {
+                    "name": "Z1",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Z2",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Z3",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Z4",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Z5",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Z6",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Z7",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Z8",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Z9",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Z10",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Z11",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "Z12",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -15,19 +15,18 @@
                 "Z10",
                 "Z11",
                 "Z12",
-                "Z13",
                 "FAN"
             ]
         },
         {
             "appearanceShortname": "C300IBH",
             "devices": [
-                "LIVING CURTAIN 1",
-                "LIVING SHEER 1",
-                "LIVING CURTAIN 2",
-                "LIVING SHEER 2",
-                "BEDROOM CURTAIN",
-                "BEDROOM SHEER"
+                "LIVING CURTAIN",
+                "LIVING SHEER",
+                "BEDROOM CURTAIN 1",
+                "BEDROOM SHEER 1",
+                "BEDROOM CURTAIN 2",
+                "BEDROOM SHEER 2"
             ]
         },
         {
@@ -37,35 +36,35 @@
             ]
         },
         {
-            "appearanceShortname": "H1RSMB",
-            "devices": [
-                "LP2",
-                "LP7"
-            ]
-        },
-        {
             "appearanceShortname": "H2RSMB",
             "devices": [
-                "LP10",
+                "LP1",
+                "LP2",
+                "LP3",
                 "LP11"
             ]
         },
         {
             "appearanceShortname": "H3RSMB",
             "devices": [
-                "LP3"
+                "LP6"
+            ]
+        },
+        {
+            "appearanceShortname": "H4RSMB",
+            "devices": [
+                "LP16"
             ]
         },
         {
             "appearanceShortname": "H5RSMB",
             "devices": [
-                "LP14"
+                "LP15"
             ]
         },
         {
             "appearanceShortname": "H6RSMB",
             "devices": [
-                "LP1",
                 "LP12",
                 "LP13"
             ]
