@@ -1,0 +1,82 @@
+{
+    "devices": [
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "A",
+            "deviceType": "Dimmer Type"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "B",
+            "deviceType": "Dimmer Type"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "C",
+            "deviceType": "Dimmer Type"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "E",
+            "deviceType": "Dimmer Type"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "F",
+            "deviceType": "Dimmer Type"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "V",
+            "deviceType": "Dimmer Type"
+        },
+        {
+            "appearanceShortname": "KBSKTREL",
+            "deviceName": "D",
+            "deviceType": "Relay Type"
+        },
+        {
+            "appearanceShortname": "KBSKTREL",
+            "deviceName": "G",
+            "deviceType": "Relay Type"
+        },
+        {
+            "appearanceShortname": "KBSKTREL",
+            "deviceName": "H",
+            "deviceType": "Relay Type"
+        },
+        {
+            "appearanceShortname": "K2PPHB",
+            "deviceName": "PPT_1",
+            "deviceType": "PowerPoint Type (Two-Way)"
+        },
+        {
+            "appearanceShortname": "K2PPHB",
+            "deviceName": "PPT_2",
+            "deviceType": "PowerPoint Type (Two-Way)"
+        },
+        {
+            "appearanceShortname": "H1PPWVBX",
+            "deviceName": "PPT3",
+            "deviceType": "PowerPoint Type (Single-Way)"
+        },
+        {
+            "appearanceShortname": "FC150A2",
+            "deviceName": "FAN1",
+            "deviceType": "Fan Type"
+        },
+        {
+            "appearanceShortname": "FC150A2",
+            "deviceName": "FAN2",
+            "deviceType": "Fan Type"
+        },
+        {
+            "appearanceShortname": "6INPUT",
+            "deviceName": "6IN"
+        },
+        {
+            "appearanceShortname": "4OUTPUT",
+            "deviceName": "4OUT"
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "scenes": [
+        {
+            "sceneName": "BRIGHT",
+            "contents": [
+                {
+                    "name": "A",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 70
+                    }
+                },
+                {
+                    "name": "FAN1",
+                    "status": "ON",
+                    "statusConditions": {
+                        "relay": "ON",
+                        "speed": 3
+                    }
+                },
+                {
+                    "name": "FAN2",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "relay": "OFF",
+                        "speed": 1
+                    }
+                },
+                {
+                    "name": "PPT_1",
+                    "statusConditions": {
+                        "leftPowerOnOff": "ON",
+                        "rightPowerOnOff": "ON"
+                    }
+                },
+                {
+                    "name": "PPT_2",
+                    "statusConditions": {
+                        "leftPowerOnOff": "OFF",
+                        "rightPowerOnOff": "OFF"
+                    }
+                },
+                {
+                    "name": "PPT3",
+                    "statusConditions": {
+                        "rightPowerOnOff": "ON"
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "OFF",
+            "contents": [
+                {
+                    "name": "A",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "PPT_1",
+                    "statusConditions": {
+                        "leftPowerOnOff": "OFF",
+                        "rightPowerOnOff": "ON"
+                    }
+                },
+                {
+                    "name": "PPT_2",
+                    "statusConditions": {
+                        "leftPowerOnOff": "ON",
+                        "rightPowerOnOff": "OFF"
+                    }
+                },
+                {
+                    "name": "PPT3",
+                    "statusConditions": {
+                        "rightPowerOnOff": "OFF"
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "SOFT",
+            "contents": [
+                {
+                    "name": "A",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 10
+                    }
+                },
+                {
+                    "name": "PPT_1,",
+                    "statusConditions": {
+                        "leftPowerOnOff": "PPT_2",
+                        "rightPowerOnOff": "ON"
+                    }
+                },
+                {
+                    "name": "PPT3",
+                    "statusConditions": {
+                        "rightPowerOnOff": "ON"
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "BATH ON",
+            "contents": [
+                {
+                    "name": "E",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "BATH OFF",
+            "contents": [
+                {
+                    "name": "V",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "BATH MOOD",
+            "contents": [
+                {
+                    "name": "E",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "V",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 90
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "WELCOME",
+            "contents": [
+                {
+                    "name": "A",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 70
+                    }
+                },
+                {
+                    "name": "G",
+                    "status": "ON",
+                    "statusConditions": {}
+                },
+                {
+                    "name": "D",
+                    "status": "ON",
+                    "statusConditions": {}
+                }
+            ]
+        },
+        {
+            "sceneName": "OCCUPIED",
+            "contents": [
+                {
+                    "name": "A",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 70
+                    }
+                },
+                {
+                    "name": "H",
+                    "status": "ON",
+                    "statusConditions": {}
+                },
+                {
+                    "name": "G",
+                    "status": "ON",
+                    "statusConditions": {}
+                },
+                {
+                    "name": "D",
+                    "status": "ON",
+                    "statusConditions": {}
+                },
+                {
+                    "name": "V",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "devices": [
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z1",
+            "deviceType": "Relay Type"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z2",
+            "deviceType": "Relay Type"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z3",
+            "deviceType": "Relay Type"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z4",
+            "deviceType": "Relay Type"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z5",
+            "deviceType": "Relay Type"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z6",
+            "deviceType": "Relay Type"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z7",
+            "deviceType": "Relay Type"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z8",
+            "deviceType": "Relay Type"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z9",
+            "deviceType": "Relay Type"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z10",
+            "deviceType": "Relay Type"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z11",
+            "deviceType": "Relay Type"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z12",
+            "deviceType": "Relay Type"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "Z13",
+            "deviceType": "Relay Type"
+        },
+        {
+            "appearanceShortname": "KBSKTR2400",
+            "deviceName": "FAN",
+            "deviceType": "Relay Type"
+        },
+        {
+            "appearanceShortname": "C300IBH",
+            "deviceName": "LIVING_CURTAIN_1",
+            "deviceType": "Curtain Type"
+        },
+        {
+            "appearanceShortname": "C300IBH",
+            "deviceName": "LIVING_SHEER_1",
+            "deviceType": "Curtain Type"
+        },
+        {
+            "appearanceShortname": "C300IBH",
+            "deviceName": "LIVING_CURTAIN_2",
+            "deviceType": "Curtain Type"
+        },
+        {
+            "appearanceShortname": "C300IBH",
+            "deviceName": "LIVING_SHEER_2",
+            "deviceType": "Curtain Type"
+        },
+        {
+            "appearanceShortname": "C300IBH",
+            "deviceName": "BEDROOM_CURTAIN",
+            "deviceType": "Curtain Type"
+        },
+        {
+            "appearanceShortname": "C300IBH",
+            "deviceName": "BEDROOM_SHEER",
+            "deviceType": "Curtain Type"
+        },
+        {
+            "appearanceShortname": "5RSIBH",
+            "deviceName": "5INPUT"
+        },
+        {
+            "appearanceShortname": "H1RSMB",
+            "deviceName": "LP2"
+        },
+        {
+            "appearanceShortname": "H1RSMB",
+            "deviceName": "LP7"
+        },
+        {
+            "appearanceShortname": "H2RSMB",
+            "deviceName": "LP10"
+        },
+        {
+            "appearanceShortname": "H2RSMB",
+            "deviceName": "LP11"
+        },
+        {
+            "appearanceShortname": "H3RSMB",
+            "deviceName": "LP3"
+        },
+        {
+            "appearanceShortname": "H5RSMB",
+            "deviceName": "LP14"
+        },
+        {
+            "appearanceShortname": "H6RSMB",
+            "deviceName": "LP1"
+        },
+        {
+            "appearanceShortname": "H6RSMB",
+            "deviceName": "LP12"
+        },
+        {
+            "appearanceShortname": "H6RSMB",
+            "deviceName": "LP13"
+        }
+    ]
+}

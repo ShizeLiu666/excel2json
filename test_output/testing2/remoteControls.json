@@ -1,0 +1,163 @@
+{
+    "remoteControls": [
+        {
+            "remoteName": "6IN",
+            "links": []
+        },
+        {
+            "remoteName": "4OUT",
+            "links": []
+        },
+        {
+            "remoteName": "S01",
+            "links": [
+                {
+                    "linkIndex": 0,
+                    "linkType": 2,
+                    "linkName": "BRIGHT",
+                    "action": "NORMAL"
+                },
+                {
+                    "linkIndex": 1,
+                    "linkType": 2,
+                    "linkName": "OFF",
+                    "action": "NORMAL"
+                },
+                {
+                    "linkIndex": 2,
+                    "linkType": 2,
+                    "linkName": "SOFT",
+                    "action": "NORMAL"
+                },
+                {
+                    "linkIndex": 3,
+                    "linkType": 1,
+                    "linkName": "DND",
+                    "action": "NORMAL"
+                }
+            ]
+        },
+        {
+            "remoteName": "S02",
+            "links": [
+                {
+                    "linkIndex": 0,
+                    "linkType": 2,
+                    "linkName": "BATH ON",
+                    "action": "NORMAL"
+                },
+                {
+                    "linkIndex": 1,
+                    "linkType": 2,
+                    "linkName": "BATH OFF",
+                    "action": "NORMAL"
+                },
+                {
+                    "linkIndex": 2,
+                    "linkType": 2,
+                    "linkName": "BATH MOOD",
+                    "action": "NORMAL"
+                },
+                {
+                    "linkIndex": 3,
+                    "linkType": 0,
+                    "linkName": "F",
+                    "action": "NORMAL"
+                }
+            ]
+        },
+        {
+            "remoteName": "S03",
+            "links": [
+                {
+                    "linkIndex": 0,
+                    "linkType": 2,
+                    "linkName": "BRIGHT",
+                    "action": "NORMAL"
+                },
+                {
+                    "linkIndex": 1,
+                    "linkType": 2,
+                    "linkName": "OFF",
+                    "action": "NORMAL"
+                },
+                {
+                    "linkIndex": 2,
+                    "linkType": 2,
+                    "linkName": "SOFT",
+                    "action": "NORMAL"
+                },
+                {
+                    "linkIndex": 3,
+                    "linkType": 0,
+                    "linkName": "B",
+                    "action": "NORMAL"
+                },
+                {
+                    "linkIndex": 4,
+                    "linkType": 1,
+                    "linkName": "DND",
+                    "action": "NORMAL"
+                },
+                {
+                    "linkIndex": 5,
+                    "linkType": 0,
+                    "linkName": "V",
+                    "action": "NORMAL"
+                }
+            ]
+        },
+        {
+            "remoteName": "S04",
+            "links": [
+                {
+                    "linkIndex": 0,
+                    "linkType": 2,
+                    "linkName": "BRIGHT",
+                    "action": "NORMAL"
+                },
+                {
+                    "linkIndex": 1,
+                    "linkType": 2,
+                    "linkName": "OFF",
+                    "action": "NORMAL"
+                },
+                {
+                    "linkIndex": 2,
+                    "linkType": 2,
+                    "linkName": "SOFT",
+                    "action": "NORMAL"
+                },
+                {
+                    "linkIndex": 3,
+                    "linkType": 0,
+                    "linkName": "C",
+                    "action": "NORMAL"
+                },
+                {
+                    "linkIndex": 4,
+                    "linkType": 1,
+                    "linkName": "DND",
+                    "action": "NORMAL"
+                },
+                {
+                    "linkIndex": 5,
+                    "linkType": 0,
+                    "linkName": "V",
+                    "action": "NORMAL"
+                }
+            ]
+        },
+        {
+            "remoteName": "S05",
+            "links": [
+                {
+                    "linkIndex": 0,
+                    "linkType": 0,
+                    "linkName": "H",
+                    "action": "NORMAL"
+                }
+            ]
+        }
+    ]
+}
