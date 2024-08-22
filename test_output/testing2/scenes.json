@@ -277,6 +277,44 @@
                 {
                     "name": "PPT_1",
                     "statusConditions": {
+                        "leftPowerOnOff": "ON",
+                        "rightPowerOnOff": "OFF"
+                    }
+                },
+                {
+                    "name": "PPT_2",
+                    "statusConditions": {
+                        "leftPowerOnOff": "ON",
+                        "rightPowerOnOff": "OFF"
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "POWERPOINT TESTING 3",
+            "contents": [
+                {
+                    "name": "PPT_1",
+                    "statusConditions": {
+                        "leftPowerOnOff": "OFF",
+                        "rightPowerOnOff": "OFF"
+                    }
+                },
+                {
+                    "name": "PPT_2",
+                    "statusConditions": {
+                        "leftPowerOnOff": "OFF",
+                        "rightPowerOnOff": "OFF"
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "POWERPOINT TESTING 4",
+            "contents": [
+                {
+                    "name": "PPT_1",
+                    "statusConditions": {
                         "leftPowerOnOff": "OFF",
                         "rightPowerOnOff": "ON"
                     }
@@ -293,11 +331,18 @@
                     "statusConditions": {
                         "rightPowerOnOff": "OFF"
                     }
+                },
+                {
+                    "name": "d1",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
                 }
             ]
         },
         {
-            "sceneName": "MIXED TESTING",
+            "sceneName": "MIXED TESTING 5",
             "contents": [
                 {
                     "name": "d1",
