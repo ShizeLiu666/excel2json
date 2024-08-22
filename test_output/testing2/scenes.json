@@ -119,7 +119,48 @@
         },
         {
             "sceneName": "RELAY TESTING",
-            "contents": []
+            "contents": [
+                {
+                    "name": "r1",
+                    "status": "ON",
+                    "statusConditions": {}
+                },
+                {
+                    "name": "r2",
+                    "status": "OFF",
+                    "statusConditions": {}
+                },
+                {
+                    "name": "r3",
+                    "status": "ON",
+                    "statusConditions": {}
+                },
+                {
+                    "name": "r4",
+                    "status": "ON",
+                    "statusConditions": {}
+                },
+                {
+                    "name": "r5",
+                    "status": "ON",
+                    "statusConditions": {}
+                },
+                {
+                    "name": "r6",
+                    "status": "OFF",
+                    "statusConditions": {}
+                },
+                {
+                    "name": "r7",
+                    "status": "OFF",
+                    "statusConditions": {}
+                },
+                {
+                    "name": "r8",
+                    "status": "OFF",
+                    "statusConditions": {}
+                }
+            ]
         },
         {
             "sceneName": "FAN TESTING",
@@ -369,6 +410,46 @@
                     "statusConditions": {
                         "level": 20
                     }
+                },
+                {
+                    "name": "r1",
+                    "status": "ON",
+                    "statusConditions": {}
+                },
+                {
+                    "name": "r2",
+                    "status": "OFF",
+                    "statusConditions": {}
+                },
+                {
+                    "name": "r3",
+                    "status": "ON",
+                    "statusConditions": {}
+                },
+                {
+                    "name": "r4",
+                    "status": "ON",
+                    "statusConditions": {}
+                },
+                {
+                    "name": "r5",
+                    "status": "ON",
+                    "statusConditions": {}
+                },
+                {
+                    "name": "r6",
+                    "status": "OFF",
+                    "statusConditions": {}
+                },
+                {
+                    "name": "r7",
+                    "status": "OFF",
+                    "statusConditions": {}
+                },
+                {
+                    "name": "r8",
+                    "status": "OFF",
+                    "statusConditions": {}
                 },
                 {
                     "name": "FAN1",
