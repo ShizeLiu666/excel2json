@@ -2,47 +2,117 @@
     "devices": [
         {
             "appearanceShortname": "KBSKTDIM",
-            "deviceName": "A",
+            "deviceName": "d1",
             "deviceType": "Dimmer Type"
         },
         {
             "appearanceShortname": "KBSKTDIM",
-            "deviceName": "B",
+            "deviceName": "d2",
             "deviceType": "Dimmer Type"
         },
         {
             "appearanceShortname": "KBSKTDIM",
-            "deviceName": "C",
+            "deviceName": "d3",
             "deviceType": "Dimmer Type"
         },
         {
             "appearanceShortname": "KBSKTDIM",
-            "deviceName": "E",
+            "deviceName": "d4",
             "deviceType": "Dimmer Type"
         },
         {
             "appearanceShortname": "KBSKTDIM",
-            "deviceName": "F",
+            "deviceName": "d5",
             "deviceType": "Dimmer Type"
         },
         {
             "appearanceShortname": "KBSKTDIM",
-            "deviceName": "V",
+            "deviceName": "d6",
+            "deviceType": "Dimmer Type"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "d7",
+            "deviceType": "Dimmer Type"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "d8",
+            "deviceType": "Dimmer Type"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "d9",
+            "deviceType": "Dimmer Type"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "d10",
+            "deviceType": "Dimmer Type"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "d11",
+            "deviceType": "Dimmer Type"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "d12",
+            "deviceType": "Dimmer Type"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "d13",
+            "deviceType": "Dimmer Type"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "d14",
+            "deviceType": "Dimmer Type"
+        },
+        {
+            "appearanceShortname": "KBSKTDIM",
+            "deviceName": "d15",
             "deviceType": "Dimmer Type"
         },
         {
             "appearanceShortname": "KBSKTREL",
-            "deviceName": "D",
+            "deviceName": "r1",
             "deviceType": "Relay Type"
         },
         {
             "appearanceShortname": "KBSKTREL",
-            "deviceName": "G",
+            "deviceName": "r2",
             "deviceType": "Relay Type"
         },
         {
             "appearanceShortname": "KBSKTREL",
-            "deviceName": "H",
+            "deviceName": "r3",
+            "deviceType": "Relay Type"
+        },
+        {
+            "appearanceShortname": "KBSKTREL",
+            "deviceName": "r4",
+            "deviceType": "Relay Type"
+        },
+        {
+            "appearanceShortname": "KBSKTREL",
+            "deviceName": "r5",
+            "deviceType": "Relay Type"
+        },
+        {
+            "appearanceShortname": "KBSKTREL",
+            "deviceName": "r6",
+            "deviceType": "Relay Type"
+        },
+        {
+            "appearanceShortname": "KBSKTREL",
+            "deviceName": "r7",
+            "deviceType": "Relay Type"
+        },
+        {
+            "appearanceShortname": "KBSKTREL",
+            "deviceName": "r8",
             "deviceType": "Relay Type"
         },
         {
@@ -61,6 +131,36 @@
             "deviceType": "PowerPoint Type (Single-Way)"
         },
         {
+            "appearanceShortname": "C300IBH",
+            "deviceName": "CURTAIN_1",
+            "deviceType": "Curtain Type"
+        },
+        {
+            "appearanceShortname": "C300IBH",
+            "deviceName": "CURTAIN_2",
+            "deviceType": "Curtain Type"
+        },
+        {
+            "appearanceShortname": "C300IBH",
+            "deviceName": "CURTAIN_3",
+            "deviceType": "Curtain Type"
+        },
+        {
+            "appearanceShortname": "C300IBH",
+            "deviceName": "CURTAIN_4",
+            "deviceType": "Curtain Type"
+        },
+        {
+            "appearanceShortname": "C300IBH",
+            "deviceName": "CURTAIN_5",
+            "deviceType": "Curtain Type"
+        },
+        {
+            "appearanceShortname": "C300IBH",
+            "deviceName": "CURTAIN_6",
+            "deviceType": "Curtain Type"
+        },
+        {
             "appearanceShortname": "FC150A2",
             "deviceName": "FAN1",
             "deviceType": "Fan Type"
@@ -68,6 +168,16 @@
         {
             "appearanceShortname": "FC150A2",
             "deviceName": "FAN2",
+            "deviceType": "Fan Type"
+        },
+        {
+            "appearanceShortname": "FC150A2",
+            "deviceName": "FAN3",
+            "deviceType": "Fan Type"
+        },
+        {
+            "appearanceShortname": "FC150A2",
+            "deviceName": "FAN4",
             "deviceType": "Fan Type"
         },
         {

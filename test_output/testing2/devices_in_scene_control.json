@@ -1,42 +1,44 @@
 {
     "Dimmer Type": [
-        "A",
-        "B",
-        "C",
-        "E",
-        "F",
-        "V"
+        "d1",
+        "d2",
+        "d3",
+        "d4",
+        "d5",
+        "d6",
+        "d7",
+        "d8",
+        "d9",
+        "d10",
+        "d11",
+        "d12",
+        "d13",
+        "d14",
+        "d15"
     ],
     "Relay Type": [
-        "Z1",
-        "Z2",
-        "Z3",
-        "Z4",
-        "Z5",
-        "Z6",
-        "Z7",
-        "Z8",
-        "Z9",
-        "Z10",
-        "Z11",
-        "Z12",
-        "Z13",
-        "FAN",
-        "D",
-        "G",
-        "H"
+        "r1",
+        "r2",
+        "r3",
+        "r4",
+        "r5",
+        "r6",
+        "r7",
+        "r8"
     ],
     "Curtain Type": [
-        "LIVING_CURTAIN_1",
-        "LIVING_SHEER_1",
-        "LIVING_CURTAIN_2",
-        "LIVING_SHEER_2",
-        "BEDROOM_CURTAIN",
-        "BEDROOM_SHEER"
+        "CURTAIN_1",
+        "CURTAIN_2",
+        "CURTAIN_3",
+        "CURTAIN_4",
+        "CURTAIN_5",
+        "CURTAIN_6"
     ],
     "Fan Type": [
         "FAN1",
-        "FAN2"
+        "FAN2",
+        "FAN3",
+        "FAN4"
     ],
     "RGB Type": [],
     "PowerPoint Type": {

@@ -1,13 +1,373 @@
 {
     "scenes": [
         {
-            "sceneName": "BRIGHT",
+            "sceneName": "DIMMER TESTING",
             "contents": [
                 {
-                    "name": "A",
+                    "name": "d1",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "d2",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "d3",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "d4",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "d4",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "d5",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "d6",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 60
+                    }
+                },
+                {
+                    "name": "d7",
                     "status": "ON",
                     "statusConditions": {
                         "level": 70
+                    }
+                },
+                {
+                    "name": "d8",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 70
+                    }
+                },
+                {
+                    "name": "d9",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "d10",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "d11",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "d12",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 20
+                    }
+                },
+                {
+                    "name": "d13",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 20
+                    }
+                },
+                {
+                    "name": "d14",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 20
+                    }
+                },
+                {
+                    "name": "d15",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 20
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "RELAY TESTING",
+            "contents": []
+        },
+        {
+            "sceneName": "FAN TESTING",
+            "contents": [
+                {
+                    "name": "FAN1",
+                    "status": "ON",
+                    "statusConditions": {
+                        "relay": "ON",
+                        "speed": 3
+                    }
+                },
+                {
+                    "name": "FAN2",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "relay": "OFF",
+                        "speed": 0
+                    }
+                },
+                {
+                    "name": "FAN3",
+                    "status": "ON",
+                    "statusConditions": {
+                        "relay": "OFF",
+                        "speed": 2
+                    }
+                },
+                {
+                    "name": "FAN2",
+                    "status": "ON",
+                    "statusConditions": {
+                        "relay": "ON",
+                        "speed": 1
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "CURTAIN TESTING",
+            "contents": [
+                {
+                    "name": "CURTAIN_1",
+                    "status": "OPEN",
+                    "statusConditions": {
+                        "position": 100
+                    }
+                },
+                {
+                    "name": "CURTAIN_2",
+                    "status": "CLOSE",
+                    "statusConditions": {
+                        "position": 0
+                    }
+                },
+                {
+                    "name": "CURTAIN_3",
+                    "status": "OPEN",
+                    "statusConditions": {
+                        "position": 100
+                    }
+                },
+                {
+                    "name": "CURTAIN_4",
+                    "status": "OPEN",
+                    "statusConditions": {
+                        "position": 100
+                    }
+                },
+                {
+                    "name": "CURTAIN_5",
+                    "status": "CLOSE",
+                    "statusConditions": {
+                        "position": 0
+                    }
+                },
+                {
+                    "name": "CURTAIN_6",
+                    "status": "CLOSE",
+                    "statusConditions": {
+                        "position": 0
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "POWERPOINT TESTING 1",
+            "contents": [
+                {
+                    "name": "PPT_1",
+                    "statusConditions": {
+                        "leftPowerOnOff": "ON",
+                        "rightPowerOnOff": "ON"
+                    }
+                },
+                {
+                    "name": "PPT_2",
+                    "statusConditions": {
+                        "leftPowerOnOff": "OFF",
+                        "rightPowerOnOff": "OFF"
+                    }
+                },
+                {
+                    "name": "PPT3",
+                    "statusConditions": {
+                        "rightPowerOnOff": "ON"
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "POWERPOINT TESTING 2",
+            "contents": [
+                {
+                    "name": "PPT_1",
+                    "statusConditions": {
+                        "leftPowerOnOff": "OFF",
+                        "rightPowerOnOff": "ON"
+                    }
+                },
+                {
+                    "name": "PPT_2",
+                    "statusConditions": {
+                        "leftPowerOnOff": "ON",
+                        "rightPowerOnOff": "OFF"
+                    }
+                },
+                {
+                    "name": "PPT3",
+                    "statusConditions": {
+                        "rightPowerOnOff": "OFF"
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "MIXED TESTING",
+            "contents": [
+                {
+                    "name": "d1",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "d2",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "d3",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "d4",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 100
+                    }
+                },
+                {
+                    "name": "d4",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "d5",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "d6",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 60
+                    }
+                },
+                {
+                    "name": "d7",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 70
+                    }
+                },
+                {
+                    "name": "d8",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 70
+                    }
+                },
+                {
+                    "name": "d9",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "d10",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "d11",
+                    "status": "OFF",
+                    "statusConditions": {
+                        "level": 0
+                    }
+                },
+                {
+                    "name": "d12",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 20
+                    }
+                },
+                {
+                    "name": "d13",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 20
+                    }
+                },
+                {
+                    "name": "d14",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 20
+                    }
+                },
+                {
+                    "name": "d15",
+                    "status": "ON",
+                    "statusConditions": {
+                        "level": 20
                     }
                 },
                 {
@@ -23,10 +383,68 @@
                     "status": "OFF",
                     "statusConditions": {
                         "relay": "OFF",
+                        "speed": 0
+                    }
+                },
+                {
+                    "name": "FAN3",
+                    "status": "ON",
+                    "statusConditions": {
+                        "relay": "OFF",
+                        "speed": 2
+                    }
+                },
+                {
+                    "name": "FAN2",
+                    "status": "ON",
+                    "statusConditions": {
+                        "relay": "ON",
                         "speed": 1
                     }
                 },
                 {
+                    "name": "CURTAIN_1",
+                    "status": "OPEN",
+                    "statusConditions": {
+                        "position": 100
+                    }
+                },
+                {
+                    "name": "CURTAIN_2",
+                    "status": "CLOSE",
+                    "statusConditions": {
+                        "position": 0
+                    }
+                },
+                {
+                    "name": "CURTAIN_3",
+                    "status": "OPEN",
+                    "statusConditions": {
+                        "position": 100
+                    }
+                },
+                {
+                    "name": "CURTAIN_4",
+                    "status": "OPEN",
+                    "statusConditions": {
+                        "position": 100
+                    }
+                },
+                {
+                    "name": "CURTAIN_5",
+                    "status": "CLOSE",
+                    "statusConditions": {
+                        "position": 0
+                    }
+                },
+                {
+                    "name": "CURTAIN_6",
+                    "status": "CLOSE",
+                    "statusConditions": {
+                        "position": 0
+                    }
+                },
+                {
                     "name": "PPT_1",
                     "statusConditions": {
                         "leftPowerOnOff": "ON",
@@ -44,162 +462,6 @@
                     "name": "PPT3",
                     "statusConditions": {
                         "rightPowerOnOff": "ON"
-                    }
-                }
-            ]
-        },
-        {
-            "sceneName": "OFF",
-            "contents": [
-                {
-                    "name": "A",
-                    "status": "OFF",
-                    "statusConditions": {
-                        "level": 0
-                    }
-                },
-                {
-                    "name": "PPT_1",
-                    "statusConditions": {
-                        "leftPowerOnOff": "OFF",
-                        "rightPowerOnOff": "ON"
-                    }
-                },
-                {
-                    "name": "PPT_2",
-                    "statusConditions": {
-                        "leftPowerOnOff": "ON",
-                        "rightPowerOnOff": "OFF"
-                    }
-                },
-                {
-                    "name": "PPT3",
-                    "statusConditions": {
-                        "rightPowerOnOff": "OFF"
-                    }
-                }
-            ]
-        },
-        {
-            "sceneName": "SOFT",
-            "contents": [
-                {
-                    "name": "A",
-                    "status": "ON",
-                    "statusConditions": {
-                        "level": 10
-                    }
-                },
-                {
-                    "name": "PPT_1,",
-                    "statusConditions": {
-                        "leftPowerOnOff": "PPT_2",
-                        "rightPowerOnOff": "ON"
-                    }
-                },
-                {
-                    "name": "PPT3",
-                    "statusConditions": {
-                        "rightPowerOnOff": "ON"
-                    }
-                }
-            ]
-        },
-        {
-            "sceneName": "BATH ON",
-            "contents": [
-                {
-                    "name": "E",
-                    "status": "ON",
-                    "statusConditions": {
-                        "level": 100
-                    }
-                }
-            ]
-        },
-        {
-            "sceneName": "BATH OFF",
-            "contents": [
-                {
-                    "name": "V",
-                    "status": "OFF",
-                    "statusConditions": {
-                        "level": 0
-                    }
-                }
-            ]
-        },
-        {
-            "sceneName": "BATH MOOD",
-            "contents": [
-                {
-                    "name": "E",
-                    "status": "ON",
-                    "statusConditions": {
-                        "level": 100
-                    }
-                },
-                {
-                    "name": "V",
-                    "status": "ON",
-                    "statusConditions": {
-                        "level": 90
-                    }
-                }
-            ]
-        },
-        {
-            "sceneName": "WELCOME",
-            "contents": [
-                {
-                    "name": "A",
-                    "status": "ON",
-                    "statusConditions": {
-                        "level": 70
-                    }
-                },
-                {
-                    "name": "G",
-                    "status": "ON",
-                    "statusConditions": {}
-                },
-                {
-                    "name": "D",
-                    "status": "ON",
-                    "statusConditions": {}
-                }
-            ]
-        },
-        {
-            "sceneName": "OCCUPIED",
-            "contents": [
-                {
-                    "name": "A",
-                    "status": "ON",
-                    "statusConditions": {
-                        "level": 70
-                    }
-                },
-                {
-                    "name": "H",
-                    "status": "ON",
-                    "statusConditions": {}
-                },
-                {
-                    "name": "G",
-                    "status": "ON",
-                    "statusConditions": {}
-                },
-                {
-                    "name": "D",
-                    "status": "ON",
-                    "statusConditions": {}
-                },
-                {
-                    "name": "V",
-                    "status": "OFF",
-                    "statusConditions": {
-                        "level": 0
                     }
                 }
             ]
